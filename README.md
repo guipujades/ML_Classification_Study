@@ -1,2 +1,2 @@
-# ML_Classification_Study
+# Machine Learning Classification Study
 Machine Learning Study - classification methods
